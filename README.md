@@ -1,8 +1,5 @@
-# Ruby-on-Rails
-💎 Ruby on Rails module team tasks 💎
-
+# Ruby on Rails team tasks
 ### TASK5
-***Task description:***
 
 Write a static (without the need of using input boxes or database) webpage. Webpage content is your choice.
 
@@ -14,7 +11,6 @@ At least 2 different Controllers (not including application_controller.rb);
 Implemented front-end design (for example W3.CSS);
 Logically used "before_action";
 Code is written using DRY methodology.
-
 
 ### TASK6
 ***Task description:***
